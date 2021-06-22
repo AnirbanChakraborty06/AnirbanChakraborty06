@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anirban Chakraborty, currently an IT professional in Tata Consultancy Services.
-- 👀 I’m interested in Mathematics and Machine Learning.
+- 👀 I’m interested in Mathematics, Machine Learning and writing science-related insightful blogs in medium (https://einchako.medium.com/).
 - 🌱 I’m currently learning Statistical Learning methods.
 - 💞️ I’m looking to collaborate in the field of machine learning and AI in the long run.
 - 📫 You can reach me at my linkedin profile - https://www.linkedin.com/in/anirban-chakraborty-41276020b/
